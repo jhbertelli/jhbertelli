@@ -1,7 +1,7 @@
 <h1 style="text-align: center; font-weight: 500;">Hey there, I'm jhbertelli</h1>
 
 ## 💫 About Me:
-🔭 I’m currently working at Docspider S.A.<br>🌱 I’m currently learning C# and Unity<br>🎓 I'm currently attending Information Systems Technology at Universidade do Estado de Santa Catarina (UDESC)<br>💬 Ask me about web development/web design<br>⚡ Fun fact: other than programming, I love music and I can play the guitar
+🔭 I’m currently working at Docspider S.A.<br>🌱 I’m currently learning C, C# and Unity<br>🎓 I'm currently attending Information Systems Technology at Universidade do Estado de Santa Catarina (UDESC)<br>💬 Ask me about web development/web design<br>⚡ Fun fact: other than programming, I love music and I can play the guitar
 
 
 ## 💻 Tech Stack:
@@ -9,8 +9,7 @@
 ## 📊 GitHub Stats:
 <div style="display: flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=jhbertelli&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" />
-    <img src="
-    https://github-readme-streak-stats.herokuapp.com/?user=jhbertelli&theme=gotham&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhbertelli&theme=gotham&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhbertelli&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
