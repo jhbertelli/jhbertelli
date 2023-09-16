@@ -1,7 +1,10 @@
-<h1 style="text-align: center; font-weight: 500;">Hey there, I'm jhbertelli</h1>
-
 ## 💫 About Me:
-💼 I’m currently working at Docspider S.A.<br>👨‍💻 I’m currently learning C, C# and GameMaker<br>🎓 I'm attending Information Systems Technology at Universidade do Estado de Santa Catarina (UDESC)<br>💬 Ask me about web development/web design<br>💡 Fun fact: other than programming, I love music and I can play the guitar
+
+I'm a web developer and student from Brazil. Other than that, I am very interested in web design, music and game development.
+
+Additional information:
+
+💼 I’m currently working at Docspider S.A.<br>👨‍💻 Learning C, C# and GameMaker<br>🎓 Attending Information Systems Technology at Universidade do Estado de Santa Catarina (UDESC)
 
 
 ## 💻 Tech Stack:
