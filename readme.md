@@ -1,10 +1,10 @@
 ## 💫 About Me:
 
-I'm a web developer and student from Brazil. Other than that, I am very interested in web design, music and game development.
+I'm a web developer and student from Brazil. Other than that, I am very interested in web design and music.
 
 Additional information:
 
-💼 I’m currently working at Docspider S.A.<br>👨‍💻 Learning Java and C<br>🎓 Attending Information Systems Technology at Universidade do Estado de Santa Catarina (UDESC)
+👨‍💻 Learning Java<br>🎓 Attending Information Systems Technology at Universidade do Estado de Santa Catarina (UDESC)
 
 
 ## 💻 Tech Stack:
